@@ -101,7 +101,3 @@ Ontwikkel een Web API voor een online veilingplatform volgens het onderstaande E
 ## Security
 
 Beveilig de Web API met JWT-tokens. Zorg voor correcte authenticatie en autorisatie voor de relevante endpoints.
-
----
-
-Met deze opdracht heb je alle tools en richtlijnen om een robuuste en veilige Web API te ontwikkelen voor een online veilingplatform. Veel succes!
